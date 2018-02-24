@@ -1,2 +1,3 @@
-# Esp_Analitica
+# Ciencia_de_Datos
+Repositorio para todos los códigos de Ciencia de Datos
 Edicion
